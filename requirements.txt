@@ -6,7 +6,7 @@ appdirs==1.4.3
 asgiref==3.2.7
 async-timeout==3.0.1
 attrs==19.1.0
-autobahn==19.3.3
+autobahn==20.12.3
 Automat==0.7.0
 beautifulsoup4==4.5.3
 billiard==3.6.2.0
